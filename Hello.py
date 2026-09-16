@@ -3,3 +3,4 @@ age = 40
 
 print("hello,",name )
 print("I am,",age )
+print("Im Happy")
